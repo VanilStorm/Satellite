@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,100;1,500&family=Raleway:wght@200;300;400;500;600;700;800&display=swap');
+
+div b {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.content {
+    font-family: 'poppins';
+    font-weight: 300;
+}
+
+.item {
+    padding: 1rem;
+}
+
+.itemAudio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding-bottom: 0.5rem;
+}
